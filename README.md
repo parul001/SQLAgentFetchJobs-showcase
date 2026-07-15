@@ -44,9 +44,9 @@ The system retrieves current job listings from the Adzuna Jobs API.
 
 Instead of relying on a single job title, the search pipeline can retrieve opportunities across multiple related roles, such as:
 
-* SDET
-* Senior SDET
-* Software Development Engineer in Test
+* SDE
+* Senior Software Engineer
+* Software Development Engineer In test
 * QA Automation Engineer
 * Software QA Engineer
 
