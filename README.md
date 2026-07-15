@@ -842,7 +842,7 @@ The public showcase can include demonstrations of:
 * 📚 Matched and missing skills
 * 💡 Application recommendations
 * 🏆 Ranked job opportunities
-* 📧 Personalized email digests
+* 📧 Personalized email digests via daily cron job run
 * 💬 Natural-language SQL queries
 
 > Screenshots and demonstrations will be added as the project evolves.
