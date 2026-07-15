@@ -162,10 +162,10 @@ The AI produces structured analysis such as:
   "matched_skills": [
     "Java",
     "SQL",
-    "API Testing"
+    "API"
   ],
   "missing_skills": [
-    "Playwright",
+    "GCP",
     "AWS"
   ],
   "recommendation": "Strong Apply",
@@ -196,16 +196,16 @@ Example:
 ```text
 🔥 Match Score: 91%
 
-Senior SDET
+Senior SDE
 
 Matched Skills:
 ✓ Java
-✓ API Testing
+✓ API Integration
 ✓ SQL
 ✓ Test Automation
 
 Potential Skill Gaps:
-• Playwright
+• GCP
 • AWS
 
 Agent Recommendation:
@@ -292,7 +292,7 @@ Rank Highest → Lowest
 Example:
 
 ```text
-🥇 Senior SDET                 94%
+🥇 Senior SDE                94%
 🥈 QA Automation Engineer     88%
 🥉 SDET II                    81%
 ```
@@ -315,7 +315,7 @@ Match Score: 94%
 
 Matched Skills:
 ✓ Java
-✓ API Testing
+✓ API
 ✓ SQL
 
 Potential Gaps:
