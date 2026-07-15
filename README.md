@@ -4,6 +4,7 @@ A personal AI engineering project that automates live job discovery, stores and 
 
 > 🔒 **Source code is maintained in a private repository.**
 > This public repository showcases the project's architecture, features, technology stack, workflow, and results.
+https://github.com/parul001/SQLAgentFetchJobs
 
 ---
 
